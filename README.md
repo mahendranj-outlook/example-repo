@@ -1,2 +1,4 @@
 # Example repository
-This is a sample repo, Hello World! 
+Git is super
+
+3rd change
